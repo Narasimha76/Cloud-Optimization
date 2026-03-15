@@ -1,4 +1,6 @@
 # Cloud-Optimization
+![Architecture Diagram](images/image3.png)
+
 Identifying Stale Resources
 
 Identifying Stale EBS Snapshots
